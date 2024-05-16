@@ -1,0 +1,3 @@
+name: VisionV2
+version: '${version}'
+main: com.chloecodesthings.visionv2.VisionV2
